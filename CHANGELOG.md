@@ -2,3 +2,4 @@
 - feat: add task creation screen (2024-05-10T11:30:00)
 - fix: fix list layout on small screens (2024-05-20T09:00:00)
 - perf: optimize local db queries (2024-06-01T15:00:00)
+- feat: mark task as completed (2024-07-01T10:00:00)
