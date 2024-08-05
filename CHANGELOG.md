@@ -4,3 +4,4 @@
 - perf: optimize local db queries (2024-06-01T15:00:00)
 - feat: mark task as completed (2024-07-01T10:00:00)
 - refactor: separate data layer (repository) (2024-07-15T14:00:00)
+- feat: add grammar handbook module (2024-08-05T11:00:00)
