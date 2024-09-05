@@ -6,3 +6,4 @@
 - refactor: separate data layer (repository) (2024-07-15T14:00:00)
 - feat: add grammar handbook module (2024-08-05T11:00:00)
 - chore: integrate firebase for sync (2024-08-20T16:00:00)
+- feat: notifications for daily reminders (2024-09-05T19:00:00)
