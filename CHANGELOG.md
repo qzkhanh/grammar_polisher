@@ -8,3 +8,4 @@
 - chore: integrate firebase for sync (2024-08-20T16:00:00)
 - feat: notifications for daily reminders (2024-09-05T19:00:00)
 - test: add basic unit tests and fix failing cases (2024-09-12T10:15:00)
+- fix: ui/ux bug fixes and polish animations (2024-09-20T20:30:00)
