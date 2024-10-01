@@ -10,3 +10,4 @@
 - test: add basic unit tests and fix failing cases (2024-09-12T10:15:00)
 - fix: ui/ux bug fixes and polish animations (2024-09-20T20:30:00)
 - style: update icons and theme (2024-09-28T18:00:00)
+- ci: add fastlane config for release (2024-10-01T13:00:00)
