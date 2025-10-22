@@ -32,17 +32,6 @@ Key Features:
 
 Whether you're a student, professional, or language enthusiast, this app is your ultimate companion for mastering English. Start learning today! 🚀
 
-# 📥 Download My App
-
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.alexcao.grammar_polisher">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="60" alt="Get it on Google Play">
-  </a>
-  <a href="https://apps.apple.com/us/app/english-handbook-learning/id6741855072">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="60" alt="Download on the App Store">
-  </a>
-</p>
-
 ---
 
 
