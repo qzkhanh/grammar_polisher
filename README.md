@@ -70,10 +70,6 @@ Whether you're a student, professional, or language enthusiast, this app is your
 </p>
 
 
-## Support & Donations
-
-<a href="https://www.buymeacoffee.com/jKBSanOvvw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 150px !important;" ></a>
-
 ## Required Environment
 
 ### Framework
